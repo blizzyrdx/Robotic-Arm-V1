@@ -12,3 +12,5 @@ For a final product, I simply want to be able to grab and drop things, using a 6
 
 Moving forward, I'm going to take notes and review Stanford's Robotics Course and learn more about Forward and Inverse Kinematics, along with
 more specialization in typical Statics and Dynamics college courses.
+
+Engineering Notebook (started July 22, 2026) https://docs.google.com/document/d/1iDh1-AqIsU9q-htR5bU7OKs6XYKeuWqiPid8FAz8vcs/edit?usp=sharing
